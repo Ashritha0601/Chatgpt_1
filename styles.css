@@ -44,3 +44,8 @@ a.contrast-link {
     padding: 5px 10px;
     text-decoration: none;
 }
+
+/* Additional styling for hover effect on the links */
+a.contrast-link:hover {
+    background-color: #555555;
+}
